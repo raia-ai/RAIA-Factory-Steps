@@ -1,26 +1,28 @@
-**Owner:** RAIA Team
+# 14. Long Term Hold
 
-**Description:** Once the agent has been running smoothly for a period of time and the client is satisfied with its performance, the project is officially marked as complete. The agent transitions from active development/monitoring to steady-state operation.
+**Owner:** Team
+
+**Description:** After the monitoring phase, some agents enter a long-term hold status where they remain in steady-state operation. This is essentially synonymous with project complete but indicates the client relationship continues with ongoing support agreements or retainer arrangements. The agent is stable, running smoothly, and requires only occasional maintenance or minor adjustments.
 
 **Key Activities:**
-- Conduct final review with client
-- Document lessons learned
-- Archive project documentation
-- Transition to long-term support model (if applicable)
-- Close out project in Jira
-- Celebrate! (Coffee Party ;) 
 
-**Completion Criteria:**
-- Agent has been running successfully for agreed-upon period
-- Client is satisfied with performance
-- No outstanding critical issues
-- All documentation is complete
-- Handoff is complete
+* Maintain agent in steady-state operation
+* Provide ongoing support as needed
+* Monitor for any issues or degradation
+* Make minor updates or adjustments as requested
+* Continue client relationship under retainer or support agreement
+* Keep agent updated with platform changes
 
-**Long-Term Hold:** Some projects may enter a "long-term hold" status rather than complete, especially for clients on retainer or with ongoing support agreements. This is essentially synonymous with project complete but indicates the client relationship continues.
+**Characteristics:**
 
-**Milestone/Deliverable:** Final project closeout documentation and client satisfaction confirmation
+* Agent is stable and performing well
+* Client is on retainer or ongoing support agreement
+* Minimal active development or changes
+* Occasional maintenance and updates
+* Long-term client relationship
 
-**Notes:** This marks the end of the factory process for this agent. Clients often return for additional agents once they see the cost benefit of the first one. We then start the whole process over again with a new agent!
+**Example:** Systems who's in a hold till January - agents that are complete but have ongoing client relationships.
 
----
+**Milestone/Deliverable:** Ongoing stable operation with periodic check-ins
+
+**Notes:** Long-term hold is used for agents that are complete but where the client relationship continues. This distinguishes from "Project Complete" which represents a true closeout. Some projects may stay in this status indefinitely for clients with ongoing support needs.

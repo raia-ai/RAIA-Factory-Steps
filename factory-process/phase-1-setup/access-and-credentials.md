@@ -16,8 +16,8 @@ Challenges:
 
 •Clients may need to schedule security compliance meetings or gain approval from their IT/Security Departments before granting access to us.
 
-•MFA/2FA can create bottlenecks if access is tied to a single person's device. The general rule of thumb is Thomas/Rich are the ones who should setup the 2FA/MFA due to the fact that they will be the ones going in and out of the platforms the most.
+•MFA/2FA can create bottlenecks if access is tied to a single person's device. The general rule of thumb is Thomas/Rich are the ones who should setup the 2FA/MFA, due to the fact that they will be the ones going in and out of the platforms the most.
 
 •Credentials may be incomplete or lack proper permissions
 
-Milestone/Deliverable: Complete set of credentials, MFA/2FA, API keys, etc are all collected and documented
+**Milestone/Deliverable**: Complete set of credentials, MFA/2FA, API keys, etc are all collected and documented

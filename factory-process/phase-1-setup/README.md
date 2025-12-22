@@ -8,7 +8,7 @@ This step requires setting up various client items on the following platforms:
 
 **1. Generate Client Google Folders in Google Drive**.&#x20;
 
-The convention for the folder are as follows: raia Projects Drive -> COMPANY - Agent Description -> Folder for each Factory Step&#x20;
+<p align="center">The convention for the folder are as follows: raia Projects Drive -> COMPANY - Agent Description -> Folder for each Factory Step </p>
 
 **2.** Generate Epic & Tasks on the RAF Jira Board&#x20;
 
@@ -16,4 +16,4 @@ The convention for the folder are as follows: raia Projects Drive -> COMPANY - A
 
 **4.** Generate Google Chat Space
 
-Notes: The card does not move past this step until all infrastructure elements (Jira, Google Drive, Raia Org) are fully configured.
+**Note**: The card does not move past this step until all infrastructure elements (Jira, Google Drive, Raia Org) are fully configured.

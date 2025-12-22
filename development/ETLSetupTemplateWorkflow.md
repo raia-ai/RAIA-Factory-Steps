@@ -6,11 +6,11 @@
 
 **Key Steps:**
 
-1. Select appropriate ETL template based on data sources in n8n.
-2. Configure template parameters for client-specific requirements (Sources, limits on how many requests we can send in a certain time period, etc)
+1. Select appropriate ETL template based on the data sources listed [in the n8n folder.](https://raia.app.n8n.cloud/projects/T9NHCi5HCuLOIJcZ/folders/7Ww0b1QESlC39iif/workflows)
+2. Configure template parameters for client-specific requirements (Sources, Limits on how many requests we can send in a certain time period, etc)
 3. Extract data.
 4. Transform data into consistent markdown format (can be done inside the workflow)
-5. Load processed data into vector store (can be done inside the workflow)
+5. Load processed data files into the agent's vector store (can be done inside the workflow)
 6. Create documentation of ETL pipeline
 7. Test data flow and integrity
 

@@ -1,18 +1,16 @@
+# 2. Access & Credentials
+
 Owner: Project Manager / Andres Pareja (AP)
 
-Description: This step focuses on gathering all necessary access credentials from the client. This includes logins for relevant systems, API keys, and access to training data sources (Example: SharePoint drive.) Several blocking variables can appear in this phase, which can include something such as  multi-factor authentication (MFA) or (2FA) codes.
+Description: This step focuses on gathering all necessary access credentials from the client. This includes logins for relevant systems, API keys, and access to training data sources (Example: SharePoint drive.) Several blocking variables can appear in this phase, which can include something such as multi-factor authentication (MFA) or (2FA) codes.
 
-Key Activities:
+**Key Steps:**
 
-•Request dedicated logins from client
-
-•Collect API keys and access tokens
-
-•Obtain any appropriate Sharepoint, Google Drive links and other folder access
-
-•Document all credentials in JIRA Space and/or GDrive folder
-
-• If needed, coordinate MFA/2FA setup with client.
+1. Request dedicated logins from client
+2. Collect API keys and access tokens
+3. Obtain any appropriate Sharepoint, Google Drive links and other folder access
+4. Document all credentials in JIRA Space and/or GDrive folder
+5. If needed, coordinate MFA/2FA setup with client.
 
 Challenges:
 

@@ -4,14 +4,14 @@
 
 **Description:** After the monitoring phase, some agents enter a long-term hold status where they remain in steady-state operation. This is essentially synonymous with project complete but indicates the client relationship continues with ongoing support agreements or retainer arrangements. The agent is stable, running smoothly, and requires only occasional maintenance or minor adjustments.
 
-**Key Activities:**
+**Key Steps:**
 
-* Maintain agent in steady-state operation
-* Provide ongoing support as needed
-* Monitor for any issues or degradation
-* Make minor updates or adjustments as requested
-* Continue client relationship under retainer or support agreement
-* Keep agent updated with platform changes
+1. Maintain agent in steady-state operation
+2. Provide ongoing support as needed
+3. Monitor for any issues or degradation
+4. Make minor updates or adjustments as requested
+5. Continue client relationship under retainer or support agreement
+6. Keep agent updated with platform changes
 
 **Characteristics:**
 

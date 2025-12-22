@@ -4,17 +4,17 @@
 
 **Description:** Once the agent is built, it undergoes an internal testing process. The QA team tests the agent's knowledge, functionality, and overall performance to identify any bugs or issues. This is a critical step in ensuring the agent is ready for client testing.
 
-**Key Activities:**
+**Key Steps:**
 
-* Test agent responses against known queries generated via example tickets, training
-  * We will usually generate 100 test queries using ai and example tickets, which then get ran via raia connect.
-* Verify knowledge base articles & training docs are referenced properly and accuracy
-* Test custom workflows and integrations
-* Check agent personality and tone consistency
-* Identify edge cases and error scenarios
-* Document any bugs or issues
-* Test guardrails and off topic-ness
-* Iterate on prompts and configuration as needed (Usually prompt adjustments are done by the person who initially created the agent system prompt instructions.)
+1. Test agent responses against known queries generated via example tickets, training
+   * We will usually generate 100 test queries using ai and example tickets, which then get ran via raia connect.
+2. Verify knowledge base articles & training docs are referenced properly and accuracy
+3. Test custom workflows and integrations
+4. Check agent personality and tone consistency
+5. Identify edge cases and error scenarios
+6. Document any bugs or issues
+7. Test guardrails and off topic-ness
+8. Iterate on prompts and configuration as needed (Usually prompt adjustments are done by the person who initially created the agent system prompt instructions.)
 
 **Testing Focus:**
 

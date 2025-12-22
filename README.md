@@ -38,5 +38,3 @@ While a basic agent can be built in just a few days, our **100-day roadmap** acc
 Navigate through the sections in this documentation to understand each step of the factory process, from initial blueprint to project completion.
 
 ***
-
-**Ready to build your first agent?** Start with [Onboarding & Org Setup](Onboarding\&OrgSetup.md).

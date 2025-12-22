@@ -4,9 +4,9 @@
 
 ## Factory Process
 
-* [Phase 1: Setup](setup/Onboarding\&OrgSetup.md)
-  * [1. Onboarding & Org Setup](setup/Onboarding\&OrgSetup.md)
-  * [2. Access & Credentials](setup/Access\&Credentials.md)
+* [Phase 1: Setup](factory-process/phase-1-setup/README.md)
+  * [1. Onboarding & Org Setup](factory-process/phase-1-setup/README.md)
+  * [2. Access & Credentials](factory-process/phase-1-setup/access-and-credentials.md)
 * [Phase 2: Auth & Data](auth-data/Auth\&APIVerification.md)
   * [3. Auth & API Verification](auth-data/Auth\&APIVerification.md)
   * [4. Document Collection & Conversion](auth-data/DocumentCollection\&Conversion.md)

@@ -26,4 +26,4 @@
 
 **Milestone/Deliverable:** Client approval to proceed to end-to-end testing. Usually this is notified to the team via Andres.
 
-**Notes:** This step is client-facing and may take variable amounts of time depending on client availability and responsiveness. The team provides support but the client drives the testing process.
+**Note:** This step is client-facing and may take variable amounts of time depending on client availability and responsiveness. The team provides support but the client drives the testing process.

@@ -1,10 +1,10 @@
 # Introduction
 
-Welcome to the RAIA Agent Factory Process documentation. This comprehensive guide outlines the complete lifecycle for building AI agents using our proven 16-step factory methodology.
+Welcome to the RAIA Agent Factory Process documentation. This comprehensive guide outlines the complete lifecycle for building AI agents using our proven 15-step factory methodology.
 
 ## What is the Factory Process?
 
-The RAIA Agent Factory Process is a mature, scalable approach to building AI agents that breaks down the entire lifecycle into **16 steps** across **5 key phases**:
+The RAIA Agent Factory Process is a mature, scalable approach to building AI agents that breaks down the entire lifecycle into **15 steps** across **5 key phases**:
 
 1. **Setup** - Blueprint, onboarding, and access management
 2. **Auth & Data** - Verification and document preparation

@@ -14,10 +14,10 @@
 4. Note gaps in knowledge base
 5. Review documentation quality and formatting
    * Ensure that no mention of: "Created by Manus" or "Authored by Manus" is in there.
-   * Ensure no ai generated images that look like fake dashboards or CRM UI's are not in there.
-   * Ensure no ROI Analysis or any mention of Money on these reports
-   * Account for clients who help customers with multiple languages, sometimes coverage can seem "low" due to training docs not being in certain languages, however LLM's dont necessarily care as they can speak in most languages.
-6. Check taxonomy and knowledge graph integrity
+   * Ensure no AI generated images that look like fake dashboards or CRM UI's are in there.
+   * Ensure no ROI Analysis or any mention of Money on the audit reports
+   * Account for clients who help customers with multiple languages, sometimes coverage can seem "low" due to training docs not being in certain languages, however LLM's don't necessarily apply to language coverage as they can speak in most languages.
+6. Check the taxonomy / Table of contents of the audit to ensure it makes sense
 7. Aim for 60-80%+ coverage by AI
 
 **Audit Components:**

@@ -25,4 +25,4 @@
 
 **Milestone/Deliverable:** Successful end-to-end test results confirming the agent is ready for production launch from client side & RAIA Side.
 
-**Notes:** This is the final gate before launch. The team aims to ensure that once this step passes, the agent can go directly to launch without additional testing phases.
+**Note:** This is the final gate before launch. The team aims to ensure that once this step passes, the agent can go directly to launch without additional testing phases.
